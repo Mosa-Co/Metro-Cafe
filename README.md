@@ -1,3 +1,1 @@
-# Metro-Cafe
-
-https://devmosa.github.io/Metro-Cafe/
+https://mosa-co.github.io/Metro-Cafe/
